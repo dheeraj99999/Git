@@ -5,6 +5,7 @@ voilet
 pink
 red
 green
+Indigo
 blue
 orange
 Green
