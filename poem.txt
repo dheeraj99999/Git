@@ -7,3 +7,6 @@ red
 green
 blue
 orange
+Green
+
+These are the colors of rainbow
